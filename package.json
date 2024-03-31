@@ -1,8 +1,9 @@
 {
-  "name": "my-cool-static-website",
+  "name": "my-cool-website",
   "version": "1.0.0",
-  "description": "A simple static website",
+  "description": "A simple HTML website",
   "scripts": {
-    "start": "echo 'No start script defined'"
-  }
+    "start": "echo 'No start script defined. Open index.html in a browser.'"
+  },
+  "author": "rashmi"
 }
